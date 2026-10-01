@@ -1,4 +1,4 @@
-# [INSERT quickstart title here]
+# Real Time video captioning for incident review.
 
 > **CONTRIBUTOR TODO: update title**
 >
@@ -9,18 +9,6 @@
 > - Industry use case, e.g.: "Protect patient data with LLM guardrails"
 >
 > _TITLE will be extracted for publication._
-
-[Add your short description here - max 160 characters]
-
-> **CONTRIBUTOR TODO: short description**
->
-> Add a SHORT DESCRIPTION of your use case between H1 title and the Table of Contents
->
-> **SHORT DESCRIPTION requirements:**
-> - MAX CHAR: 160
-> - Describe the INDUSTRY use case
->
-> _SHORT DESCRIPTION will be extracted for publication._
 
 ## Table of Contents
 
@@ -47,6 +35,8 @@
 - [Tags](#tags)
 
 ## Overview
+
+This quickstart demonstrates how organizations can transform live video streams into searchable operational intelligence. By generating contextual descriptions of video events, creating semantic metadata, enabling natural-language search, and producing intelligent alerts, the solution helps reduce the effort required to investigate incidents and respond to operational events
 
 > **CONTRIBUTOR TODO: add overview**
 >
